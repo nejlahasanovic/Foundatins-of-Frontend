@@ -1,1 +1,1 @@
-# Foundatins-of-Frontend
+# Foundations-of-Frontend
